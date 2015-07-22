@@ -1,0 +1,126 @@
+
+	.overContent {
+	   position: absolute;
+	   /*z-index: 100;*/
+	}
+
+	.fullHeight {
+	   height: 100%;
+	   max-height: 100%;
+	}
+
+	.overContent-topCenter {
+	   top: 0;
+	   right: 0;
+	   left: 0;
+	   margin-left: auto;
+	   margin-right: auto;
+	}
+
+	.overContent-topLeft {
+	   top: 0;
+	   bottom: 0;
+	   left: 0;
+	   margin-left: auto;
+	   margin-right: auto;
+	}
+
+	.overContent-topRight {
+	   top: 0;
+	   right: 0;
+	   bottom: 0;
+	   margin-left: auto;
+	   margin-right: auto;
+	}
+
+	.overContent-bottomCenter {
+	   right: 0;
+	   bottom: 0;
+	   left: 0;
+	   margin-left: auto;
+	   margin-right: auto;
+	}
+
+	.overContent-bottomRight {
+	   right: 0;
+	   bottom: 0;
+	   margin-left: auto;
+	   margin-right: auto;
+	}
+
+	.overContent-bottomLeft {
+	   bottom: 0;
+	   left: 0;
+	   margin-left: auto;
+	   margin-right: auto;
+	}
+
+	.overContent-centerAll {
+	   top: 0;
+	   bottom: 0;
+	   left: 0;
+	   right: 0;
+	   margin: auto;
+	}
+
+	.overContent-centerLeft {
+	   top: 0;
+	   bottom: 0;
+	   left: 0;
+	   margin: auto;
+	}
+
+	.overContent-centerRight {
+	   top: 0;
+	   bottom: 0;
+	   right: 0;
+	   margin: auto;
+	}
+
+	/*********** background test  ***********/
+	.subgame-backgroundImage {
+	   height: 100%;
+	   position: relative;
+	   overflow: hidden;
+
+	}
+
+	.subgame-backgroundImagesubgame-backgroundImage {
+	   height: 100%;
+	   background-repeat: no-repeat;
+	   background-position: center center;
+	   position: absolute;
+	}
+
+	/*background responsive*/
+	.arrowBackgroundGame {
+	   color: black;
+	   font-size: 28px;
+	   position: absolute;
+	   text-shadow: 0px 0px 7px #FFF;
+	   -moz-transition: all ease-out 1s;
+	   -o-transition: all ease-out 1s;
+	   -webkit-transition: all ease-out 1s;
+	   transition: all ease-out 1s;
+	   z-index: 1102;
+	}
+
+	.arrowBackgroundGame-up {
+	   top: 2%;
+	   right: 50%;
+	}
+
+	.arrowBackgroundGame-left {
+	   top: 50%;
+	   left: 2%;
+	}
+
+	.arrowBackgroundGame-right {
+	   right: 2%;
+	   top: 50%;
+	}
+
+	.arrowBackgroundGame-down {
+	   top: 94%;
+	   right: 50%;
+	}

@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Smart Background</title>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css" />
+	<link rel="stylesheet" href="smartBg.css" />
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+	<script src="smartBg.js"></script>
+</head>
+<body>
+
+
+<div class="subgame-backgroundImage guideLine"></div>
+
+<style>
+
+   html,body, .js-view {
+      height: 100%;
+   }
+
+   .js-view {
+      padding: 0px;
+   }
+
+</style>
+
+<script type="text/javascript">
+
+	$( document ).ready(function() {
+		jQuery('.subgame-backgroundImage').smartBg({
+	      imgBg: 'http://res.freestockphotos.biz/pictures/9/9994-farm-fields-with-mountains-in-the-background-landscape-pv.jpg',
+	      showArrow: true,
+	      keepVisible: true
+	   });
+	});
+
+</script>
+
+</body>
+</html>
