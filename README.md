@@ -6,4 +6,4 @@ Is this plugin useful ? mmm maybe not, but it sounded like a great idea in my he
 
 Well .. if you want to use it here it is
 
-Example : [http://saulburgos.com/apps/smartbg/](http://saulburgos.com/apps/smartbg/)
+Example : [http://saulburgos.com/apps/smartbg/](http://saulburgos.com/apps/smartbg/)  (click on the image to show the arrows and resize the browser if you want)
