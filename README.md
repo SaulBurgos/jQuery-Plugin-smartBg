@@ -11,7 +11,9 @@ Example : [http://saulburgos.com/apps/smartbg/](http://saulburgos.com/apps/smart
 Options:
 
  **imgBg:** url background
+ 
  **showArrow:** if you want show arrows
+ 
  **keepVisible:** arrows never disappear
 
 Depencies: Bootstrap 3.1.1 , jquery 1.9.1
