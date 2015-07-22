@@ -1,4 +1,4 @@
-# smartBg
+# jQuery Plugin smartBg
 
 This is a jquery plugin that add arrows to show the hide parts of the background. Calculate landscape and portrait position.
 
